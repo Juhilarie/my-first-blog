@@ -1,0 +1,11 @@
+coach: Mendrika
+cam: Larissa, Nina
+
+virtual environment: isoler le projet du reste de la machine
+
+Github:    stockage en ligne (genre de cloud)
+	sauvegarde des versions des codes créés
+
+Git: logiciel pour communiquer avec Github 
+
+pythonanywhere: partage de code en ligne
